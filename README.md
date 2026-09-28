@@ -1,4 +1,4 @@
-Adidas Sales Analysis Dashboard
+#  Adidas Sales Analysis Dashboard
 
 ## Overview
 An interactive Tableau dashboard analyzing Adidas U.S. sales data to uncover
@@ -26,12 +26,24 @@ The dashboard explores:
 **Skills:** Data Visualization • Business Intelligence • KPI Analysis •
 Geographic Analysis • Sales Analytics • Dashboard Development
 
-##  Dashboard
+## Dashboard
 
 ![Adidas Sales Dashboard](Adidas_Sales_Dashboard.png)
 
-## Project Files
+## 📁 Project Files
 
 - `Adidas_Sales_Dashboard.twbx` — Tableau workbook
 - `Adidas_US_Sales_Dataset.xlsx` — Source dataset
 - `Adidas_Sales_Dashboard.png` — Dashboard preview
+
+##  Key Insights
+
+- Identified geographic differences in sales performance across U.S. markets.
+- Compared product categories to identify major revenue contributors.
+- Analyzed operating profit alongside sales to evaluate profitability.
+- Visualized sales trends to make performance patterns easier to identify.
+
+##  Author
+
+**Adam Ajaj**  
+Business Analytics | Montclair State University
